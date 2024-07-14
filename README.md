@@ -1,6 +1,7 @@
 # chickcoop
 
 Join Here : [Telegram](https://t.me/apsstudiotech)
+
 Join Here : [Discord](https://discord.gg/N9caefVJ7F)
 
 Game Chickcoop Telegram [Chickcoop](https://t.me/chickcoopofficial_bot/chickcoop?startapp=ref_1330939241)
