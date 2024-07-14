@@ -14,7 +14,7 @@ Game Chickcoop Telegram [Chickcoop](https://t.me/chickcoopofficial_bot/chickcoop
 Install with python
 1. Download Python 3.10+
 2. Install Module requests, threading, json
-3. Buka Bot Tabi di PC (Telegram Web / Desktop)
+3. Buka Bot chickcoop di PC (Telegram Web / Desktop)
 4. Jika sudah terbuka > Klik kanan Inspect
 5. Di Application > Session Storage > https://game.chickcoop.io
 6. __telegram__initParams > tgWebAppData copy valuenya (query_id)
